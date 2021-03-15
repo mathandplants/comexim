@@ -33,9 +33,9 @@ def estimate_comexim_size(band_size: int, cup_size: str, store_name: str) -> str
     else:
         print('Please enter a valid store name in quotes (\"Breakout Bras\" or \"Comexim\")')
     
-    if len(est_cup_sizes) == 1:
-        largest_cup = est_cup_sizes[0]
-        print('Your estimated Comexim size when buying from {} is {}.'.format(store_name,str(band_size) + est_cup_sizes[0]))
+    if type(est_cup_sizes) == str:
+        largest_cup = est_cup_sizes
+        print('Your estimated Comexim size when buying from {} is {}.'.format(store_name,str(band_size) + est_cup_sizes))
     else:
         largest_cup = est_cup_sizes.values[1]
         print('Your estimated Comexim size when buying from {} is {}/{}.'.format(store_name,str(band_size) + est_cup_sizes.values[0],est_cup_sizes.values[1]))
