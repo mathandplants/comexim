@@ -1,14 +1,18 @@
 # Comexim Bra Size Converter 
 
+[**This calculator**](http://comeximcalc.herokuapp.com/) created by [@winsbe01](https://github.com/winsbe01) and [u/EuphoricToe1](https://www.reddit.com/user/EuphoricToe1) will suggest bra sizes to try when purchasing Comexim bras. 
+
+It is intended to be a starting point for finding the correct size, but as with all bras, different styles and brands will fit everyone a little differently.
+
 ## Intro
 
-This is a tool to convert your UK bra size to the two main systems used to size Comexim bras.
+This tool was built to convert your UK bra size to the two main systems used to size Comexim bras. The code that does the calculations can be found here, and the calculator itself is in the link above.
 
-## Instructions
+## Instructions for using the script 
 
 **Thank you to Reddit user u/horstersen made [these great visual instructions](https://imgur.com/a/dqyuuOR) for using this script!**
 
-To run the script:
+If you would like to run the script on the command line:
 
 * Copy everything [here](https://github.com/mathandplants/comexim/blob/main/calculator.py) and paste it into your favorite plain text editor\*. 
 * Change the values (`band_size`, `cup_size`, `store_name`) at the top to your UK bra size and the store you plan on buying from.
