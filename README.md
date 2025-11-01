@@ -1,8 +1,8 @@
 # Comexim Bra Size Converter 
 
-[**This calculator**](http://comeximcalc.herokuapp.com/) created by [@winsbe01](https://github.com/winsbe01) and [u/EuphoricToe1](https://www.reddit.com/user/EuphoricToe1) will suggest bra sizes to try when purchasing Comexim bras. 
+[**This calculator**](comeximcalc.vercel.app) created by [@winsbe01](https://github.com/winsbe01) and [u/EuphoricToe1](https://www.reddit.com/user/EuphoricToe1) will suggest bra sizes to try when purchasing Comexim bras. 
 
-It is intended to be a starting point for finding the correct size, but as with all bras, different styles and brands will fit everyone a little differently.
+It is intended to be a starting point for finding the correct size, but as with all bras, different styles and brands will fit everyone a little differently. Please reach out to me here or on Reddit ([u/weebmagnet3000](https://www.reddit.com/user/weebmagnet3000)) with any questions or feedback.
 
 ## Intro
 
@@ -49,7 +49,7 @@ The math going on behind the scenes is based on this idea. The steps for doing t
 
 ## Custom Orders
 
-Some sizes are not available by default, but Comexim is good about taking custom requests. You will need to reach out to them directly. Specifically, they do not offer bands under UK28 (EU60) or over UK40 (EU90). Some cup sizes also must be custom ordered. The calculator should have a note about this if it applies to you.
+Some sizes are not available by default, but at least historically, Comexim takes custom requests. You will need to reach out to them directly. Specifically, they do not offer bands under UK28 (EU60) or over UK40 (EU90). Some cup sizes also must be custom ordered. The calculator should have a note about this if it applies to you.
 
 ## Conversion Charts
 
