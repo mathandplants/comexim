@@ -1,6 +1,6 @@
 # Comexim Bra Size Converter 
 
-[**This calculator**](comeximcalc.vercel.app) created by [@winsbe01](https://github.com/winsbe01) and [u/EuphoricToe1](https://www.reddit.com/user/EuphoricToe1) will suggest bra sizes to try when purchasing Comexim bras. 
+[**This calculator**](http://comeximcalc.vercel.app/) created by [@winsbe01](https://github.com/winsbe01) and [u/EuphoricToe1](https://www.reddit.com/user/EuphoricToe1) will suggest bra sizes to try when purchasing Comexim bras. 
 
 It is intended to be a starting point for finding the correct size, but as with all bras, different styles and brands will fit everyone a little differently. Please reach out to me here or on Reddit ([u/weebmagnet3000](https://www.reddit.com/user/weebmagnet3000)) with any questions or feedback.
 
